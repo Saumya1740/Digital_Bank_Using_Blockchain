@@ -5,7 +5,3 @@
 3) Execute the command: `npm i`
 4) Execute the command: `truffle migrate --reset`
 5) Execute the command: `npm start`
-
-## Testing.
-
-- Execute the command `truffle test` to run the tests.
