@@ -1,10 +1,3 @@
-# Decentralized Bank.
-A decentralized bank with interests and loans with DEFI Blockchain, Ethereum, Solidity, ERC20, truffle, ganache, Web3.js, and React.js
-
-Meant to learn blockchain technologies.
-
-<img src="./assets/scrsht.png">
-
 ## How to run.
 
 1) Install the following dependencies: Node, truffle, ganache.
