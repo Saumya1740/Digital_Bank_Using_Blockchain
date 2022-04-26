@@ -1,7 +1,7 @@
 ## How to run.
 
-1) Install the following dependencies: Node, truffle, ganache.
-2) Make sure your `truffle-config.js` is setted up with your Ganache network.
-3) Execute the command: `npm i`
-4) Execute the command: `truffle migrate --reset`
-5) Execute the command: `npm start`
+1) Make sure Ganache, Truffle and Node is installed.
+2) Make sure truffle-config.js file is linked with Ganache network's Id. "Here(1337)".
+3) Open the terminal and run "npm install" to install the required dependencies.
+4) To migrate the contracts run the command "truffle migrate --reset".
+5) To run the DAPP run the command "truffle migrate --reset".
